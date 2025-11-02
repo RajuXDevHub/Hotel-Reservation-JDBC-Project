@@ -40,7 +40,4 @@ Choose an option:
 🪪 License
 This project is open source and available under the MIT License.
 
----
-
-Would you like me to generate a `.gitignore` file and sample `LICENSE` file (MIT) too — so your repo looks fully professional before you push it to GitHub?
 
